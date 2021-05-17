@@ -4,9 +4,9 @@
 
 ## Kunal's Kubernetes Journey
 
-### Your Social
-- [✍️ Link to your Twitter](https://twitter.com/kverma_twt)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/verma-kunal)
+### My Socials
+- [✍️ Twitter](https://twitter.com/kverma_twt)
+- [✍️ LinkedIn](https://www.linkedin.com/in/verma-kunal)
 
 ## Stepping out the door
 
