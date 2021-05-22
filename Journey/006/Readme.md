@@ -1,15 +1,10 @@
-# New post title here
+# Day - 6 (100DaysOfKubernetes)
 
-## Introduction
+## My Learnings
 
+* Not able to do anything today related to this!
+* Will try to cover up tomorrow and try to complete Docker !!
 
-## Prerequisite
+## Tweet
 
-
-## Use Case
-
-
-## Research
-
-
-## Try yourself
+Link: https://twitter.com/kverma_twt/status/1396144470115061762?s=20
