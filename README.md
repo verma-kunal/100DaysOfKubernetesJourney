@@ -15,9 +15,9 @@
 - [X] ☸ 3 > [My Third Day](Journey/003/Readme.md)
 - [X] ☸ 4 > [My Fourth Day](Journey/004/Readme.md)
 - [X] ☸ 5 > [My Fifth Day](Journey/005/Readme.md)
-- [ ] ☸ 6 > [My Sixth Day](Journey/006/Readme.md)
-- [ ] ☸ 7 > [My Seventh Day](Journey/007/Readme.md)
-- [ ] ☸ 8 > [My Eighth Day](Journey/008/Readme.md)
+- [X] ☸ 6 > [My Sixth Day](Journey/006/Readme.md)
+- [X] ☸ 7 > [My Seventh Day](Journey/007/Readme.md)
+- [X] ☸ 8 > [My Eighth Day](Journey/008/Readme.md)
 - [ ] ☸ 9 > [My Nineth Day](Journey/009/Readme.md)
 - [ ] ☸ 10 > [My Tenth Day](Journey/010/Readme.md)
 
