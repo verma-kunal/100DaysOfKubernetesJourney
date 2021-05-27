@@ -8,7 +8,7 @@
 - [✍️ Twitter](https://twitter.com/kverma_twt)
 - [✍️ LinkedIn](https://www.linkedin.com/in/verma-kunal)
 
-## Stepping out the door
+## Stepping out the door (1st Milestone)
 
 - [X] ☸ 1 > [My First Day](Journey/001/Readme.md)
 - [X] ☸ 2 > [My Second Day](Journey/002/Readme.md)
