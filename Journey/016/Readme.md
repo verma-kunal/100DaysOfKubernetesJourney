@@ -1,15 +1,12 @@
-# New post title here
+# Day - 16 (#100DaysOfKubernetes)
 
-## Introduction
+## My Learnings
 
-
-## Prerequisite
-
-
-## Use Case
+* Learnt about "CrashLoopBackOff" status of a pod & why does that happen!
+* How can we potentially delete our pod efficiently i.e directly deleting the deployment, to avoid restarting!
 
 
-## Research
+## Tweet
 
+Link: https://twitter.com/kverma_twt/status/1400522310763700228?s=20
 
-## Try yourself
