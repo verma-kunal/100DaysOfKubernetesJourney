@@ -1,15 +1,13 @@
-# New post title here
+# Day - 20 (#100DaysOfKubernetes)
 
-## Introduction
+## My Learnings
 
+* Revised some Kubernetes concepts through the documentation
 
-## Prerequisite
-
-
-## Use Case
+=> **Whole day went by in practical assignments, will try to do more tomorrow **
 
 
-## Research
+## Tweet
 
+Link: https://twitter.com/kverma_twt/status/1403012930308755459?s=20
 
-## Try yourself
