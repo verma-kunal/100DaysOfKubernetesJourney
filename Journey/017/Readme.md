@@ -1,15 +1,12 @@
-# New post title here
+# Day - 17 (#100DaysOfKubernetes)
 
-## Introduction
+## My Learnings
 
+* Learnt about what is Private Docker Registry
+* Learnt to push our built image on private docker registry on AWS ECR (Elastic Container Registry)
 
-## Prerequisite
+=> **Missed 2 days of study due to shifting, will try to compensate somewhere**
 
+## Tweet
 
-## Use Case
-
-
-## Research
-
-
-## Try yourself
+Link: https://twitter.com/kverma_twt/status/1401938072468561927?s=20
