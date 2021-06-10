@@ -23,16 +23,16 @@
 
 ## Walking down the road
 
-- [ ] ☸ 11 > [My Eleventh Day](Journey/011/Readme.md)
-- [ ] ☸ 12 > [My Twelth Day](Journey/012/Readme.md)
-- [ ] ☸ 13 > [My Thirteenth Day](Journey/013/Readme.md)
-- [ ] ☸ 14 > [My Fourteenth Day](Journey/014/Readme.md)
-- [ ] ☸ 15 > [My Fifteenth Day](Journey/015/Readme.md)
-- [ ] ☸ 16 > [My Sixteenth Day](Journey/016/Readme.md)
-- [ ] ☸ 17 > [My Seventeenth Day](Journey/017/Readme.md)
-- [ ] ☸ 18 > [My Eighteenth Day](Journey/018/Readme.md)
-- [ ] ☸ 19 > [My Ninteenth Day](Journey/019/Readme.md)
-- [ ] ☸ 20 > [My Twentiath Day](Journey/020/Readme.md)
+- [X] ☸ 11 > [My Eleventh Day](Journey/011/Readme.md)
+- [X] ☸ 12 > [My Twelth Day](Journey/012/Readme.md)
+- [X] ☸ 13 > [My Thirteenth Day](Journey/013/Readme.md)
+- [X] ☸ 14 > [My Fourteenth Day](Journey/014/Readme.md)
+- [X] ☸ 15 > [My Fifteenth Day](Journey/015/Readme.md)
+- [X] ☸ 16 > [My Sixteenth Day](Journey/016/Readme.md)
+- [X] ☸ 17 > [My Seventeenth Day](Journey/017/Readme.md)
+- [X] ☸ 18 > [My Eighteenth Day](Journey/018/Readme.md)
+- [X] ☸ 19 > [My Ninteenth Day](Journey/019/Readme.md)
+- [X] ☸ 20 > [My Twentiath Day](Journey/020/Readme.md)
 
 ## Crossing the bridge
 
