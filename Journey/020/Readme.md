@@ -4,7 +4,8 @@
 
 * Revised some Kubernetes concepts through the documentation
 
-=> **Whole day went by in practical assignments, will try to do more tomorrow **
+=> **Whole day went by in practical assignments, will try to do more tomorrow**
+
 
 
 ## Tweet
