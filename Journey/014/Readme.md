@@ -1,15 +1,12 @@
-# New post title here
+# Day - 14 (#100DaysOfKubernetes)
 
-## Introduction
+## My Learnings
 
-
-## Prerequisite
-
-
-## Use Case
+* Learnt about DockerFiles & how are they configured
+* Learnt about how Jenkins works in Continuous Integration (basic)
 
 
-## Research
+## Tweet
 
+Link: https://twitter.com/kverma_twt/status/1399776835173421062?s=20
 
-## Try yourself
