@@ -1,15 +1,13 @@
-# New post title here
+# Day - 11 (#100DaysOfKubernetes)
 
-## Introduction
+## My Learnings
 
-
-## Prerequisite
-
-
-## Use Case
+* Learnt about Docker Compose & how it helps running multiple containers at the same time
+* Learn about different commands we use while using Docker-Compose 
+* Learnt to setup Kubernetes cluster in our local machine
 
 
-## Research
+## Tweet
 
+Link: https://twitter.com/kverma_twt/status/1397923450472124431?s=20
 
-## Try yourself
