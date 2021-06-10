@@ -1,15 +1,11 @@
-# New post title here
+# Day - 18 (#100DaysOfKubernetes)
 
-## Introduction
+## My Learnings
 
+* Learnt about ReplicaSets in Kubernetes
+* How Pod Replicas are created & whats the difference b/w these and Deployments
 
-## Prerequisite
+## Tweet
 
+Link: https://twitter.com/kverma_twt/status/1402300906549383171?s=20
 
-## Use Case
-
-
-## Research
-
-
-## Try yourself
