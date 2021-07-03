@@ -36,13 +36,13 @@
 
 ## Crossing the bridge
 
-- [X] ☸ 21 > [](Journey/021/Readme.md)
-- [X] ☸ 22 > [](Journey/022/Readme.md)
-- [X] ☸ 23 > [](Journey/023/Readme.md)
-- [X] ☸ 24 > [](Journey/024/Readme.md)
-- [X] ☸ 25 > [](Journey/025/Readme.md)
-- [X] ☸ 26 > [](Journey/026/Readme.md)
-- [X] ☸ 27 > [](Journey/027/Readme.md)
+- [X] ☸ 21 > [My Twenty-First Day](Journey/021/Readme.md)
+- [X] ☸ 22 > [My Twenty-Second Day](Journey/022/Readme.md)
+- [X] ☸ 23 > [My Twenty-Third Day](Journey/023/Readme.md)
+- [X] ☸ 24 > [My Twenty-Fourth Day](Journey/024/Readme.md)
+- [X] ☸ 25 > [My Twenty-Fifth Day](Journey/025/Readme.md)
+- [X] ☸ 26 > [My Twenty-Sixth Day](Journey/026/Readme.md)
+- [X] ☸ 27 > [My Twenty-Seventh Day](Journey/027/Readme.md)
 - [ ] ☸ 28 > [](Journey/028/Readme.md)
 - [ ] ☸ 29 > [](Journey/029/Readme.md)
 - [ ] ☸ 30 > [](Journey/030/Readme.md)
