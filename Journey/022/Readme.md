@@ -1,15 +1,15 @@
-# New post title here
+# Day - 22 (#100DaysOfKubernetes)
 
-## Introduction
+## My Learnings
 
-
-## Prerequisite
-
-
-## Use Case
+- Revised some previous concepts studied about Docker (commands and topics)
 
 
-## Research
+## Sources Used
 
+1. Nana's Tutroial => [video](https://www.youtube.com/watch?v=3c-iBn73dDE)
+2. Docker Documnetation => https://docs.docker.com/get-started/overview/
 
-## Try yourself
+## Tweet
+
+Link: https://twitter.com/kverma_twt/status/1404114525566078977?s=20
