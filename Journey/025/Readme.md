@@ -1,15 +1,18 @@
-# New post title here
+# Day - 25 (#100DaysOfKubernetes)
 
-## Introduction
+## My Learnings
 
-
-## Prerequisite
-
-
-## Use Case
+- Studied about some of the K8s topics like deployment, Services again as wasn't clear at first 
+- Tried downloading Tensorflow through Docker to practice the concepts learnt before 
 
 
-## Research
+## Sources Used
+
+1. Notes => https://100daysofkubernetes.io/
+2. Tensorflow Docs => https://www.tensorflow.org/install/docker
 
 
-## Try yourself
+## Tweet
+
+Link: https://twitter.com/kverma_twt/status/1406675744386785283?s=20
+
