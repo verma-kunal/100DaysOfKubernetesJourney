@@ -13,7 +13,7 @@
 1. Anais' Channel (Day-1) --> [video](https://www.youtube.com/watch?v=w30yBV2ZDJ8&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV&index=2)
 2. Chapter-1 from Book ([100DaysOfKubernetes.io](https://100daysofkubernetes.io/start/intro-to-k8s.html))
 
-## Tweet
+## Tweet (Link)
 
 Link: https://twitter.com/kverma_twt/status/1394312481951010818?s=20
 
